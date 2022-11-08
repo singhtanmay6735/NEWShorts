@@ -1,1 +1,1 @@
-# NEWShorts-News-Summarizer-Translator
+# NEWShorts: News-Summarizer-Translator
